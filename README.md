@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soumabha Mahapatra  
 
-🎓 First-year B.Tech CSE (Core) student at Techno India University.  
+🎓 Sophomore B.Tech CSE (Core) student at Techno India University.  
 💻 Passionate about AI, Blockchain, and Full-Stack Development.  
 📚 Aspiring Software Engineer & Mathematics Researcher.  
 ✍️ I also love story writing, reading, and recitation.  
