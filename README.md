@@ -10,7 +10,7 @@
 
 ## 💫 About Me:
 <ul>
-  <li>🎓 First-year B.Tech CSE (Core) student at <strong>Techno India University</strong>.</li>
+  <li>🎓 Second-year B.Tech CSE (Core) student at <strong>Techno India University</strong>.</li>
   <li>💻 Passionate about <strong>AI</strong>, <strong>Blockchain</strong>, and <strong>Full-Stack Development</strong>.</li>
   <li>📚 Aspiring <strong>Software Engineer</strong> & <strong>Mathematics Researcher</strong>.</li>
   <li>✍️ I love <strong>story writing</strong>, <strong>reading</strong>, and <strong>recitation</strong>.</li>
