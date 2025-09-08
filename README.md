@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif](https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTczNDE1NzUsIm5iZiI6MTc1NzM0MTI3NSwicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA4VDE0MjExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4ODVlMTVjOGNiMTE3OWY3M2RjY2QzODI1Y2VmMDk1NWRkMWUxM2YyMDA2MjA3YzdmNDk4YmNiZGY3ZjdmNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-qj3Flz-5VXHFnRiUDJ1jbaAmdKO1ZBojPC4w2ahAww)" alt="banner">
+  <img src="https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif" alt="banner">
 </p>
 
 <h1 align="center">Hello, I'm Soumabha Mahapatra 👋</h1>
